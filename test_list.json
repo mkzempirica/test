@@ -1,0 +1,4 @@
+{"name":"1inch","timestamp":"2021-06-24T18:24:17+00:00","version":{"major":137,"minor":0,"patch":0},"keywords":["1inch","default","list"],"tokens":
+[{"address":"0xd0a1e359811322d97991e03f863a0c30c2cf029c","chainId":1,"name":"WrappedEther","symbol":"WETH","decimals":18,"logoURI":""},
+{"address":"0xa36085f69e2889c224210f603d836748e7dc0088","chainId":1,"name":"ChainLinkToken","symbol":"LINK","decimals":18,"logoURI":""}],
+"logoURI":"https://1inch.exchange/assets/images/logo.png"}
